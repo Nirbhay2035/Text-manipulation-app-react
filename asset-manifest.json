@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Text-manipulation-app-react/static/css/main.93b38752.css",
+    "main.js": "/Text-manipulation-app-react/static/js/main.5a6e8628.js",
+    "static/js/453.ed3810f9.chunk.js": "/Text-manipulation-app-react/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/Text-manipulation-app-react/index.html",
+    "main.93b38752.css.map": "/Text-manipulation-app-react/static/css/main.93b38752.css.map",
+    "main.5a6e8628.js.map": "/Text-manipulation-app-react/static/js/main.5a6e8628.js.map",
+    "453.ed3810f9.chunk.js.map": "/Text-manipulation-app-react/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93b38752.css",
+    "static/js/main.5a6e8628.js"
+  ]
+}
