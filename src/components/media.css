@@ -1,0 +1,8 @@
+.media{
+    border: 1px solid red;
+}
+.media button{
+    @media only screen and (max-width:1000px){
+     margin: 5px;
+    }
+}
